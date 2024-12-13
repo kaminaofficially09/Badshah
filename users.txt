@@ -1,0 +1,1 @@
+[{"user_id": 5344691638, "username": "@Bgmi_owner_420", "valid_until": "2024-11-05 03:57:06.241028", "current_date": "2024-11-03 03:57:06.242421", "plan": "Plan Premium"}]
