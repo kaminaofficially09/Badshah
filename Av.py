@@ -12,8 +12,8 @@ from keepalive import keep_alive
 from telebot.apihelper import ApiTelegramException
 
 # Convert ADMIN_IDS to a list of integers
-ADMIN_IDS = [7885196586]  # Changed from string to list of integers
-BOT_TOKEN = "7226547078:AAHdHB3Q0MZiNCyCe8ApJM-whFnFhELA214"
+ADMIN_IDS = [5344691638]  # Changed from string to list of integers
+BOT_TOKEN = "7876862440:AAG6wrrbdaN1j4lEWSJPQSiudzeBSCVS1WQ"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 redeemed_keys = set()
